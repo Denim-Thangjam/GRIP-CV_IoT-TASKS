@@ -4,3 +4,5 @@ Contains the following:
 2. Code for Object Dectection in Video (Using YOLOv3_tiny).
 3. Image on which the code is being tested.
 4. Video on which the code is being tested.
+
+Note: labels, weight and cfg files are not included...
